@@ -1,4 +1,4 @@
-#  
+#  Enhance Bear for macOS with Bear for macOS professional Integration - dark mode and goal tracking, the #1 integration. Includes dark mode and goal tracking for a smoother
 
 
 
